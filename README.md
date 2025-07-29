@@ -13,7 +13,7 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. Test yo
 ## 🧠 How to Play
 
 1. Press any key to start the game.
-2. Watch the sequence of flashes and sounds.
+2. Watch the sequence of flashes.
 3. Click the buttons in the same order.
 4. Each new level adds one more step to the sequence.
 5. Game ends if you click the wrong button.
